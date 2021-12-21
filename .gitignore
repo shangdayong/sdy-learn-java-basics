@@ -1,23 +1,25 @@
-# Compiled class file
 *.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+*.DS_Store
+*.lock
+*.swp
+.settings/
+.settings
+target/
+bin/
+.classpath
+.idea
+test/
+rebel.xml
+*.eml
+*.project
+*.tmp
+._*
+classes/
+.mymetadata
+.metadata
+*.iml
+.springBeans
+jetty-contexts.xml
+compile.sh
+lh-lhcic-smart-mgt-plat-rpc-web/sh/
+lh-lhcic-smart-mgt-plat-rpc-web/apidoc
