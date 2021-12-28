@@ -17,11 +17,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/learn/basic/string/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="139" column="25" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="25" />
+            <state relative-caret-position="687">
+              <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+              <folding>
+                <element signature="e#1358#1359#0" expanded="true" />
+                <element signature="e#1385#1386#0" expanded="true" />
+                <element signature="e#2135#2136#0" expanded="true" />
+                <element signature="e#2159#2160#0" expanded="true" />
+                <element signature="e#3110#3111#0" expanded="true" />
+                <element signature="e#3137#3138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/learn/basic/arraylist/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
+              <caret line="208" column="29" selection-start-line="208" selection-start-column="29" selection-end-line="208" selection-end-column="29" />
+              <folding>
+                <element signature="e#1280#1281#0" expanded="true" />
+                <element signature="e#1304#1305#0" expanded="true" />
+                <element signature="e#2506#2507#0" expanded="true" />
+                <element signature="e#2530#2531#0" expanded="true" />
+                <element signature="e#4372#4373#0" expanded="true" />
+                <element signature="e#4400#4401#0" expanded="true" />
+                <element signature="e#4827#4828#0" expanded="true" />
+                <element signature="e#4854#4855#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/learn/basic/string/HelloWord.java" />
         <option value="$PROJECT_DIR$/src/learn/basic/thread/HelloWord.java" />
         <option value="$PROJECT_DIR$/src/learn/basic/string/Solution.java" />
+        <option value="$PROJECT_DIR$/src/learn/basic/arraylist/Solution.java" />
       </list>
     </option>
   </component>
@@ -70,8 +98,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="895" />
-    <option name="y" value="340" />
+    <option name="x" value="894" />
+    <option name="y" value="339" />
     <option name="width" value="1923" />
     <option name="height" value="1035" />
   </component>
@@ -104,6 +132,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdy-learn-java-basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdy-learn-java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sdy-learn-java-basics" type="b2602c69:ProjectViewProjectNode" />
@@ -146,6 +181,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdy-learn-java-basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdy-learn-java-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sdy-learn-java-basics" type="b2602c69:ProjectViewProjectNode" />
@@ -209,18 +251,19 @@
       <option name="presentableId" value="Default" />
       <updated>1639970822876</updated>
       <workItem from="1639970826353" duration="727000" />
-      <workItem from="1640066885711" duration="1779000" />
+      <workItem from="1640066885711" duration="2698000" />
+      <workItem from="1640676214179" duration="2880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2506000" />
+    <option name="totallyTimeSpent" value="6305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2525556" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1888154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -314,17 +357,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/basic/string/HelloWord.java">
+    <entry file="file://$PROJECT_DIR$/src/learn/basic/string/HelloWord.java" />
+    <entry file="file://$PROJECT_DIR$/src/learn/basic/string/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="687">
+          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+          <folding>
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#2135#2136#0" expanded="true" />
+            <element signature="e#2159#2160#0" expanded="true" />
+            <element signature="e#3110#3111#0" expanded="true" />
+            <element signature="e#3137#3138#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learn/basic/string/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/learn/basic/arraylist/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="139" column="25" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="25" />
+        <state relative-caret-position="-75">
+          <caret line="208" column="29" selection-start-line="208" selection-start-column="29" selection-end-line="208" selection-end-column="29" />
+          <folding>
+            <element signature="e#1280#1281#0" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
+            <element signature="e#2506#2507#0" expanded="true" />
+            <element signature="e#2530#2531#0" expanded="true" />
+            <element signature="e#4372#4373#0" expanded="true" />
+            <element signature="e#4400#4401#0" expanded="true" />
+            <element signature="e#4827#4828#0" expanded="true" />
+            <element signature="e#4854#4855#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
